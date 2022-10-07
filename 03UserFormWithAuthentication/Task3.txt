@@ -1,0 +1,15 @@
+Regstintaion -> mail, name, callno, address , required fields
+login 
+user 
+jwt 
+field authentication 
+frontend -> vue -> 3 seprate compoenets 
+backend -> node -> auth with jwt
+db -> mongodb required fields 
+
+updates : 
+
+Password ectpy 
+jwt db
+validation -> front end -> v model for name email pass number * input feild 
+api call without data

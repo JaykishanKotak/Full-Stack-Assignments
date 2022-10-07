@@ -1,0 +1,8 @@
+Task1
+Curd Operations 
+File System
+Multer 
+Axios
+front -> vue
+back -> node
+db -> mongo

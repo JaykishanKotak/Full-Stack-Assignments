@@ -1,0 +1,7 @@
+Todo 
+front -> vue
+back -> node 
+input -> text / img
+edit 
+delete 
+mongodb -> local 

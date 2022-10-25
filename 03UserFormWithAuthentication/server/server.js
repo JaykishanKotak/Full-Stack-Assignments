@@ -9,7 +9,7 @@ const {
     authSchema
 } = require('./models/validation')
 
-mongoose.connect('mongodb://localhost:27017/proj01', {
+mongoose.connect('ADD MONGODB URL HERE', {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,

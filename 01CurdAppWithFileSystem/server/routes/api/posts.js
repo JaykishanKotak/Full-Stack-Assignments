@@ -3,7 +3,7 @@ const router = express.Router();
 
 const mongodb = require("mongodb");
 
-const dbConnectionUrl = "mongodb://localhost:27017/proj01";
+const dbConnectionUrl = "ADD MONGODB URL HERE";
 
 
 // Get Request

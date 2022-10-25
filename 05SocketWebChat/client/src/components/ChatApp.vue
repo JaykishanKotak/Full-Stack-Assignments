@@ -7,7 +7,7 @@
             <button class="join-button" v-on:click="join">Join</button>
         </div>
     </div>
-    <!-- If User is Not Joined -->
+    <!-- If User is Joined -->
     <div v-if="joined">
         <div class="list-container">
             <div v-for="message in messages" :key="message.id">

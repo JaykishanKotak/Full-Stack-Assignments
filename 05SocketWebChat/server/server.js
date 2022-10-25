@@ -18,7 +18,11 @@ const io = new Server(server, {
 });
 
 
+
 io.on('connection', (socket) => {
+    socket.on('create', (room) => {
+        socket.join(room);
+    });
     console.log(`user ${socket.id} is connected.`)
 
     socket.on('message', data => {
